@@ -35,7 +35,7 @@ It analyzes NBA player performance using **regression models, statistical indica
 ## 🌐 Live Version
 
 You can view the HTML version of the project here:  
-👉 [NBA Data Analysis Report](https://pisagio.github.io/Coding_Project/)
+👉 [NBA Data Analysis Report](https://pisagio.github.io/Coding_Project/index.html)
 
 ---
 
